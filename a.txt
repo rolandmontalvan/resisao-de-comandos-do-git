@@ -2,4 +2,8 @@ teste.
 1
 2
 3
+<<<<<<< HEAD
 esta linha foi modificada na branch master
+=======
+esta linha foi modificada no ramo teste
+>>>>>>> teste
